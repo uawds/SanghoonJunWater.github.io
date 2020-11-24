@@ -11,9 +11,6 @@ redirect_from:
 
 Education
 ======
-* 빨강
-  * 녹색
-    * 파랑
 * Doctor of Philosophy (Hydrology and Water Resources Engineering), Jul 2013 - Nov 2017
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
   * Thesis title: <i>Improvements and applications of satellite-derived soil moisture for flood forecasting</i>
