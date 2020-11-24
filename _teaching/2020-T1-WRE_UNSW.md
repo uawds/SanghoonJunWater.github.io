@@ -8,13 +8,6 @@ date: 2020-02-17
 location: "Sydney, Australia"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
+* Position: Post-Doctoral Teaching Assistant 
+* Role: Teaching, coordinating and consulting
 
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
