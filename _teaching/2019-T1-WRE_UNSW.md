@@ -2,12 +2,12 @@
 title: "CVEN3501 Water Resources Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-T1-WRE_UNSW
+permalink: /teaching/2019-T1-WRE_UNSW
 venue: "School of Civil and Environmental Engineering, UNSW Sydney"
-date: 2020-02-17
+date: 2019-02-18
 location: "Sydney, Australia"
 ---
-* Teaching period: T1, 2020
+* Teaching period: T1, 2019
 * Position: Post-Doctoral Teaching Assistant 
 * Role: Teaching, coordinating and consulting
-* Number of students: 452
+* Number of students: 610
