@@ -75,12 +75,9 @@ Teaching Experiences
 ======
 * Post-Doctoral Teaching Assistant, UNSW Sydney, Australia, Jul 2017 -
   *	Teaching, coordinating and consulting for <i>Catchment and Water Resources Modelling</i>, <i>Water Resources Engineering</i>
-  <ul>{% for post in site.teaching %}
-  {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  * Academic supervision of masters/honours students  
-*	Teaching Assistant, UNSW Sydney, Australia, Jul 2013 - Mar 2017 
-*	Teaching Assistant, Korea University, Seoul, Republic of Korea, Mar 2006 - Feb 2008 
+  * Academic supervision of masters/honours students
+* Teaching Assistant, UNSW Sydney, Australia, Jul 2013 - Mar 2017 
+* Teaching Assistant, Korea University, Seoul, Republic of Korea, Mar 2006 - Feb 2008 
 
 Professional activities
 ======
