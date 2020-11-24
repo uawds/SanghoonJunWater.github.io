@@ -95,5 +95,5 @@ Projects Involved
   * ARC DP, <i>A Fourier approach to address low-frequency variability bias in hydrology</i>, May 2019 - April 2020
   * ARC Linkage Project, funded by WaterNSW and Sydney Water, <i>Adapting catchment monitoring and portable water treatment to climate change</i>, Apr 2017 - May 2019
 * Ph.D. candidate, UNSW Sydney, Australia, Jul 2013 - Mar 2017
-  * ARC DP, Reducing Flood Loss - <i>Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions</i>, Jul 2013 - Mar 2017
-  * Soil Moisture Active Passive Experiment - the 4th campaign (SMAPEx-4), May 2015 [Link](http://www.smapex.monash.edu.au/Data/SMAPEx-4/SMAPEx-4%20pictures.php)
+  * ARC DP, <i>Reducing Flood Loss-Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions</i>, Jul 2013 - Mar 2017
+  * Soil Moisture Active Passive Experiment - the 4th campaign ([SMAPEx-4](http://www.smapex.monash.edu.au/Data/SMAPEx-4/SMAPEx-4%20pictures.php)), May 2015
