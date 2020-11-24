@@ -11,31 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.S. in HydroInformatics and Water Management, Brandenburg University of Technology, Brandenburg, Germany, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021 (expected)
+*	Doctor of Philosophy (Hydrology and Water Resources Engineering) || Jul. 2013 - Nov. 2017 
+ + School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
+   (UNSW Sydney ranking in 2021- QS: 44th; QS (civil engineering): 11th; AWRU (water resources): 5th)
+ +	Thesis title: Improvements and applications of satellite-derived soil moisture for flood forecasting
+ +	Supervisors: [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en), [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en), [Yi Y. Liu](https://scholar.google.com.au/citations?user=iTSHW9wAAAAJ&hl=en)
+*	Master of Engineering (Water Resources Engineering) || Mar. 2006 - Feb. 2008 
+ +	School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
+ +	Thesis title: Study for Improving Water Distribution System Reliability
+ +	Supervisor: [Joong Hoon Kim](https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en)
+*	Bachelor of Engineering (Civil and Environmental Engineering) || Mar. 1997 - Feb. 2001
+ +	School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
 
-Work experience
+Professional Appointments
 ======
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
-  * Duties included: 
-    + Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
-    + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
-  * Supervisor: Prof. Shie-Yui Liong
-
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
-  * Duties included:
-    + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
-    + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
-  * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
-  
-Research Interest
-======
-* Wavelet based time series decomposition and transformation
-* Hydro-climatological forecasting and downscaling
-* Climate change impact on the water cycle (e.g. floods and droughts)
+* Associate Manager || Water resources engineering in Hyundai Engineering and Construction Co., Ltd., Seoul, Korea || Jan. 2008 - Jul. 2013
+*	Platoon leader & intelligence officer (1st lieutenant) || Republic of Korea Army || Jul. 2001 - Sept. 2004
 
 Publications
 ======
@@ -54,13 +45,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Contribute to IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-
-Membership
-======
-* American Geosciences Union (AGU)
-* Asia Oceania Geosciences Society (AOGS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)

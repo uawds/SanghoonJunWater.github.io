@@ -8,32 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's home on the web. 
+This is Seokhyeon Kim's home on the web. 
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works. I am also an R enthusiast.
+I am a researcher focusing on satellite remote sensing and environmental data science. I am currently woring in the Water Research Centre in UNSW.
 
-PROFILE:
-* Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatological processes. 
-* Strong interpersonal skills with a good sense of teamwork.
-* Programming Skills: R, C/C++, VBA, and Python.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+RESEARCH EXPERTISE AND INTEREST: 
+* Use and refinement of satellite data for environmental studies
+* Environmental and hydrological applications of remote sensing/reanalysis/ground data
+* Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff simulation Toolkit (SMART)
+* Optimization problems in environmental systems
+* Meta-heuristic algorithms (Genetic Algorithm and Harmony Search), network theory, deep neural network
 
-RESEARCH INTEREST:
-* Wavelet based time series decomposition and transformation
-* Hydro-climatological forecasting and downscaling
-* Climate change impact on the water cycle (e.g. floods and droughts)
+TEACHING ACTIVITIES: 
+* Water Resources Engineering (in UNSW)
+* Catchment and Water Resources Modelling (in UNSW)
 
+EDUCATION: 
+* Ph.D. (Remote Sensing of the Environment and Hydrology), University of New South Wales, Sydney, Australia, 2017
+* M.Eng. (Water Resources Engineering), Korea University, Seoul, South Korea, 2008
+* B.Eng. (Civil and Environmental Engineering), Korea University, Seoul, South Korea, 2001
+
+ENGINEERING AND PROFESSIONAL EXPERIENCES
+* Associate Manager, Water resources engineering in Hyundai Engineering and Construction Co., Ltd., Seoul, Korea, 2008 - 2013
+* First Lieutenant, Republic of Korea Army, 2001 - 2004
 
 ## Selected Journal Publications
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 104907. doi:https://doi.org/10.1016/j.envsoft.2020.104907
+S. Kim, H. Pham, Y. Liu, L. Marshall, A. Sharma. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, IEEE Transactions on Geoscience and Remote Sensing, Published (online)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. doi:https://doi.org/10.1029/2019WR026962
+S. Kim, A. Sharma. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, Water Resources Research, 55(2), 1707-1716
 
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. doi:https://doi.org/10.1016/j.advwatres.2019.103430
+S. Kim, K. Paik, F. Johnson, A. Sharma. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing, 11(2), 375-387
 
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. doi:https://doi.org/10.1007/s00704-018-2617-z
+S. Kim, K. Balakrishnan, Y. Liu, F. Johnson, A. Sharma. (2017). Spatial Disaggregation of Coarse Soil Moisture Data by Using High Resolution Remotely Sensed Vegetation Products, IEEE Geoscience and Remote Sensing Letters, 14(9), 1604-1608
+
+S. Kim, Y. Liu, F. Johnson, R. Parinussa, A. Sharma. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? Remote Sensing of Environment, 161 (0), 43-62
 
 
 ## For more info
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/).
+More info about Ze Jiang can be found in [CV](https://skim.github.io/cv/).
