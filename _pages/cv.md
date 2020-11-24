@@ -65,7 +65,7 @@ Satellite remote sensing, hydrology, water system, optimization, MATLAB, Python,
 Research Experience
 ======
 * Research Associate, UNSW, Sydney, Australia, Apr 2017 -
-  * Environmental applications of satellite-derived data
+  * Applications of environmental data (satellite, reanalysis, ground)
 * Ph.D. Student, UNSW, Sydney, Australia, Jul. 2013 - Mar 2017
   * Improvements and applications of satellite-derived data
 * Master Student, Korea University, Seoul, Republic of Korea, Mar 2006 - Feb 2008
@@ -91,9 +91,9 @@ Professional activities
 Projects Involved
 ======
 * Research Associate, UNSW Sydney, Australia, Apr 2017 -
-  * Australian Research Council (ARC) Discovery Project (DP), Assessing Water Supply Security in a Nonstationary Environment, (DP200101326), May 2020 -
-  * ARC DP, A Fourier approach to address low-frequency variability bias in hydrology, (DP180102737), May 2019 - April 2020
-  * ARC Linkage Project, funded by WaterNSW and Sydney Water, Adapting catchment monitoring and portable water treatment to climate change (LP160100620), Apr 2017 - May 2019
+  * Australian Research Council (ARC) Discovery Project (DP), <i>Assessing Water Supply Security in a Nonstationary Environment</i>, May 2020 -
+  * ARC DP, <i>A Fourier approach to address low-frequency variability bias in hydrology</i>, May 2019 - April 2020
+  * ARC Linkage Project, funded by WaterNSW and Sydney Water, <i>Adapting catchment monitoring and portable water treatment to climate change</i>, Apr 2017 - May 2019
 * Ph.D. candidate, UNSW Sydney, Australia, Jul 2013 - Mar 2017
-  * ARC DP, Reducing Flood Loss ?Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions (DP140102394), Jul 2013 - Mar 2017
-  * Soil Moisture Active Passive Experiment - the 4th campaign (SMAPEx-4), May 2015
+  * ARC DP, Reducing Flood Loss - <i>Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions</i>, Jul 2013 - Mar 2017
+  * Soil Moisture Active Passive Experiment - the 4th campaign (SMAPEx-4), May 2015 [Link](http://www.smapex.monash.edu.au/Data/SMAPEx-4/SMAPEx-4%20pictures.php)
