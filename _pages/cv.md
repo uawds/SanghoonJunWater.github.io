@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy (Hydrology and Water Resources Engineering), Jul 2013 - Nov 2017
+* Doctor of Philosophy (Remote Sensing of Environment, Hydrology), Jul 2013 - Nov 2017
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
   * Thesis title: <i>Improvements and applications of satellite-derived soil moisture for flood forecasting</i>
   * Supervisors: [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en), [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en), [Yi Y. Liu](https://scholar.google.com.au/citations?user=iTSHW9wAAAAJ&hl=en)
