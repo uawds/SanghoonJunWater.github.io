@@ -38,5 +38,5 @@ S. Kim, Y. Liu, F. Johnson, R. Parinussa, A. Sharma. (2015). A global comparison
 
 
 ## For more info
-More info about Ze Jiang can be found in [CV](https://skim.github.io/cv/).
+More info can be found in [CV](https://steelpl.github.io/cv/).
  
