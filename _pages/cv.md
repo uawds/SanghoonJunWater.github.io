@@ -60,24 +60,24 @@ Korean, English
 
 Skills & Expertise 
 ======
-* Satellite remote sensing, hydrology, water system, optimization, MATLAB, Python, ArcGIS
+Satellite remote sensing, hydrology, water system, optimization, MATLAB, Python, ArcGIS
 
 Research Experience
 ======
-*	Research Associate, UNSW, Sydney, Australia, Apr. 2017 ? 
-*	Hydrologic applications of satellite-derived data
-*	Ph.D. Student, UNSW, Sydney, Australia, Jul. 2013 ? Mar. 2017 
-*	Improvements and applications of satellite-derived soil moisture for flood forecasting
-*	Master Student, Korea University, Seoul, Republic of Korea, Mar. 2006 ? Feb. 2008 
-*	Improving water distribution system reliability
+*	Research Associate, UNSW, Sydney, Australia, Apr. 2017 - 
+  *	Environmental applications of satellite-derived data
+*	Ph.D. Student, UNSW, Sydney, Australia, Jul. 2013 - Mar. 2017
+  *	Improvements and applications of satellite-derived data
+*	Master Student, Korea University, Seoul, Republic of Korea, Mar 2006 - Feb 2008
+  *	Improving water system reliability
 
 Teaching Experiences
 ======
 *	Post-Doctoral Teaching Assistant, UNSW Sydney, Australia, Jul 2017 -
   *	Teaching, coordinating and consulting for Catchment and Water Resources Modelling, Water Resources Engineering; Academic supervision of masters/honours students
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+    + <ul>{% for post in site.teaching %}
+     {% include archive-single-cv.html %}
+     {% endfor %}</ul>
 *	Teaching Assistant, UNSW Sydney, Australia, Jul 2013 - Mar 2017 
 *	Teaching Assistant, Korea University, Seoul, Republic of Korea, Mar 2006 - Feb 2008 
 
