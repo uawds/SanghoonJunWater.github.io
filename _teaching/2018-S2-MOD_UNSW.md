@@ -11,4 +11,4 @@ location: "Sydney, Australia"
 * Position: Post-Doctoral Teaching Assistant 
 * Role: Teaching, coordinating and consulting
 * Number of students: 45
-* Course Profile: [Download](https://vm.civeng.unsw.edu.au/courseprofiles/2018/2018-S2_CVEN9612x6480.pdf)
+* [Course Profile](https://vm.civeng.unsw.edu.au/courseprofiles/2018/2018-S2_CVEN9612x6480.pdf)
