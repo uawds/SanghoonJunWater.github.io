@@ -16,9 +16,9 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Use and refinement of satellite data for environmental studies
 * Environmental and hydrological applications of remote sensing/reanalysis/ground data
-* Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff simulation Toolkit (SMART)
+* Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff simulation Toolkit ([SMART](https://github.com/hooriajami/SMART))
 * Optimization problems in environmental systems
-* Meta-heuristic algorithms (Genetic Algorithm and Harmony Search), network theory, deep neural network
+* Meta-heuristic algorithms (Genetic Algorithm and [Harmony Search](https://sites.google.com/a/hydroteq.com/www/)), network theory, deep neural network
 
 <b>TEACHING ACTIVITIES:</b>
 * <i>Water Resources Engineering</i> (in UNSW)
