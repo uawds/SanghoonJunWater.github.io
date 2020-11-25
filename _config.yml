@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seokhyeon Kim"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Seokhyeon Kim"
 description              : &description "Researcher in WRC@UNSW, Sydney, Australia"
