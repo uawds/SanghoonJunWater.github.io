@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Linear Combination"
-excerpt: "MATLAB codes for temporally dynamic linear combination of soil moisture datasets used in Kim, S., Parinussa, R. M., Liu, Y. Y., Johnson, F. M., & Sharma, A. (2016). Merging alternate remotely-sensed soil moisture retrievals using a non-static model combination approach. <i>Remote Sensing</i>, 8(6), 518.<br/><img src='/images/dynamicComb.jpg' width="50%" height="50%">"
+excerpt: "MATLAB codes for temporally dynamic linear combination of soil moisture datasets used in Kim, S., Parinussa, R. M., Liu, Y. Y., Johnson, F. M., & Sharma, A. (2016). Merging alternate remotely-sensed soil moisture retrievals using a non-static model combination approach. <i>Remote Sensing</i>, 8(6), 518.<br/><img src='/images/dynamicComb.jpg'>"
 collection: software
 ---
 ## Abstract
