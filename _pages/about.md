@@ -30,8 +30,10 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 * B.Eng. (Civil and Environmental Engineering), Korea University, Seoul, South Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
-* Associate Manager, Water resources engineering in Hyundai Engineering and Construction Co., Ltd., Seoul, Korea, 2008 - 2013
-* First Lieutenant, Republic of Korea Army, 2001 - 2004
+* Associate Manager, Water resources engineering in [Hyundai Engineering and Construction Co., Ltd](https://en.hdec.kr/intro_en.aspx)., Seoul, Korea, 2008 - 2013   
+<br/><img src='/images/HDEC.jpg'>
+* First Lieutenant, Republic of Korea Army, 2001 - 2004   
+<br/><img src='/images/ARMY.jpg'>
 
 ## Selected Journal Publications
 S. Kim, H. Pham, Y. Liu, L. Marshall, A. Sharma. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Transactions on Geoscience and Remote Sensing</i>, Published [(online)](https://ieeexplore.ieee.org/document/9246707).
