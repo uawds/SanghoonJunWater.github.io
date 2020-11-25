@@ -26,7 +26,7 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 
 <b>EDUCATION:</b>
 * Ph.D. (Remote Sensing of Environment and Hydrology), University of New South Wales, Sydney, Australia, 2017
-* M.Eng. (Water Resources Engineering), Korea University, Seoul, South Korea, 2008
+* M.Eng. ([Water Resources Engineering](http://opti.korea.ac.kr/main/main.php?PHPSESSID=af07001daf706fd494fdb2a269253205)), Korea University, Seoul, South Korea, 2008
 * B.Eng. (Civil and Environmental Engineering), Korea University, Seoul, South Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
