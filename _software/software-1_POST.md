@@ -1,6 +1,6 @@
 ---
 title: "POST: Parameter Optimization and Simulation Toolkit for Flood Warning"
-excerpt: "MATLAB codes for optimizing model parameters and simulating floods (Kim et al.,2018)
+excerpt: "MATLAB codes for optimizing model parameters and simulating floods (Kim et al.,2018)"
 collection: software
 ---
 ## Abstract
