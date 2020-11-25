@@ -25,8 +25,8 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 * <i>Catchment and Water Resources Modelling</i> (in UNSW)
 
 <b>EDUCATION:</b>
-* Ph.D. in Remote Sensing of Environment and Hydrology (Advisor: [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-57711b55/?originalSubdomain=au), University of New South Wales, Sydney, Australia, 2017
-* M.Eng. in Water Resources Engineering (Advisor: [Joong Hoon Kim](http://opti.korea.ac.kr/professor/profile.php), Korea University, Seoul, South Korea, 2008
+* Ph.D. in Remote Sensing of Environment and Hydrology (Advisor: [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-57711b55/?originalSubdomain=au)), University of New South Wales, Sydney, Australia, 2017
+* M.Eng. in Water Resources Engineering (Advisor: [Joong Hoon Kim](http://opti.korea.ac.kr/professor/profile.php)), Korea University, Seoul, South Korea, 2008
 * B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, South Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
