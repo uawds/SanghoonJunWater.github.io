@@ -14,9 +14,9 @@ This is Seokhyeon Kim's personal hompage.
 I am a researcher in the fields of satellite remote sensing and environmental data science. I am currently working in [WRC@UNSW](https://www.wrc.unsw.edu.au/).
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
-* Use and refinement of satellite data for environmental studies
-* Environmental and hydrological applications of remote sensing/reanalysis/ground data
-* Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff simulation Toolkit ([SMART](https://github.com/hooriajami/SMART))
+* Environmental and hydrological studies using remote sensing/reanalysis/ground data
+* Validation of satellite data
+* Improvements of satellite data (accuracy/precesion/spatial resolution)
 * Optimization problems in environmental systems
 * Meta-heuristic algorithms (Genetic Algorithm and [Harmony Search](https://sites.google.com/a/hydroteq.com/www/)), network theory, deep neural network
 
@@ -25,9 +25,9 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 * <i>Catchment and Water Resources Modelling</i> (in UNSW)
 
 <b>EDUCATION:</b>
-* Ph.D. (Remote Sensing of Environment and Hydrology), University of New South Wales, Sydney, Australia, 2017
-* M.Eng. ([Water Resources Engineering](http://opti.korea.ac.kr/main/main.php?PHPSESSID=af07001daf706fd494fdb2a269253205)), Korea University, Seoul, South Korea, 2008
-* B.Eng. (Civil and Environmental Engineering), Korea University, Seoul, South Korea, 2001
+* Ph.D. in Remote Sensing of Environment and Hydrology (Advisor: [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-57711b55/?originalSubdomain=au), University of New South Wales, Sydney, Australia, 2017
+* M.Eng. in Water Resources Engineering (Advisor: [Joong Hoon Kim](http://opti.korea.ac.kr/professor/profile.php), Korea University, Seoul, South Korea, 2008
+* B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, South Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
 * Associate Manager, Water resources engineering in [Hyundai Engineering and Construction Co., Ltd](https://en.hdec.kr/intro_en.aspx)., Seoul, Korea, 2008 - 2013   
