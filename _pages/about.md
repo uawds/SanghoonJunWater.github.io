@@ -13,23 +13,23 @@ This is Seokhyeon Kim's personal hompage.
 ## A short introduction
 I am a researcher in the fields of satellite remote sensing and environmental data science. I am currently working in [WRC@UNSW](https://www.wrc.unsw.edu.au/).
 
-RESEARCH EXPERTISE AND INTEREST: 
+<b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Use and refinement of satellite data for environmental studies
 * Environmental and hydrological applications of remote sensing/reanalysis/ground data
 * Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff simulation Toolkit (SMART)
 * Optimization problems in environmental systems
 * Meta-heuristic algorithms (Genetic Algorithm and Harmony Search), network theory, deep neural network
 
-TEACHING ACTIVITIES: 
+<b>TEACHING ACTIVITIES:</b>
 * <i>Water Resources Engineering</i> (in UNSW)
 * <i>Catchment and Water Resources Modelling</i> (in UNSW)
 
-EDUCATION: 
+<b>EDUCATION:</b>
 * Ph.D. (Remote Sensing of Environment and Hydrology), University of New South Wales, Sydney, Australia, 2017
 * M.Eng. (Water Resources Engineering), Korea University, Seoul, South Korea, 2008
 * B.Eng. (Civil and Environmental Engineering), Korea University, Seoul, South Korea, 2001
 
-ENGINEERING AND PROFESSIONAL EXPERIENCES
+<b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
 * Associate Manager, Water resources engineering in Hyundai Engineering and Construction Co., Ltd., Seoul, Korea, 2008 - 2013
 * First Lieutenant, Republic of Korea Army, 2001 - 2004
 
