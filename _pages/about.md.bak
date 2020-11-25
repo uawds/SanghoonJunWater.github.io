@@ -21,8 +21,8 @@ RESEARCH EXPERTISE AND INTEREST:
 * Meta-heuristic algorithms (Genetic Algorithm and Harmony Search), network theory, deep neural network
 
 TEACHING ACTIVITIES: 
-* Water Resources Engineering (in UNSW)
-* Catchment and Water Resources Modelling (in UNSW)
+* <i>Water Resources Engineering</i> (in UNSW)
+* <i>Catchment and Water Resources Modelling</i> (in UNSW)
 
 EDUCATION: 
 * Ph.D. (Remote Sensing of Environment and Hydrology), University of New South Wales, Sydney, Australia, 2017
@@ -38,12 +38,13 @@ S. Kim, H. Pham, Y. Liu, L. Marshall, A. Sharma. (2020). Improving the combinati
 
 S. Kim, A. Sharma. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, Water Resources Research, 55(2), 1707-1716 [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023627).
 
-S. Kim, K. Paik, F. Johnson, A. Sharma. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing, 11(2), 375-387 [Link](https://ieeexplore.ieee.org/abstract/document/8276238/).
+S. Kim, K. Paik, F. Johnson, A. Sharma. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing, 11(2), 375-387[Link](https://ieeexplore.ieee.org/abstract/document/8276238/).
 
-S. Kim, K. Balakrishnan, Y. Liu, F. Johnson, A. Sharma. (2017). Spatial Disaggregation of Coarse Soil Moisture Data by Using High Resolution Remotely Sensed Vegetation Products, IEEE Geoscience and Remote Sensing Letters, 14(9), 1604-1608 [Link](https://ieeexplore.ieee.org/abstract/document/7999216).
+S. Kim, K. Balakrishnan, Y. Liu, F. Johnson, A. Sharma. (2017). Spatial Disaggregation of Coarse Soil Moisture Data by Using High Resolution Remotely Sensed Vegetation Products, IEEE Geoscience and Remote Sensing Letters, 14(9), 1604-1608[Link](https://ieeexplore.ieee.org/abstract/document/7999216).
 
 S. Kim, Y. Liu, F. Johnson, R. Parinussa, A. Sharma. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? Remote Sensing of Environment, 161 (0), 43-62 [Link](https://www.sciencedirect.com/science/article/pii/S0034425715000486).
 
 
 ## For more info
 More info can be found in [CV](https://steelpl.github.io/cv/).
+Dowonload [CV](https://steelpl.github.io/files/CV_Seokhyeon.pdf)
