@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Seokhyeon's webpage"
+title: "Seokhyeon Kim's webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
