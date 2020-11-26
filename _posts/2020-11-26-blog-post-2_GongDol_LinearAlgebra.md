@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning from StatQuest'
+title: 'Linear Algebra from AngeloYeo'
 date: 2020-11-26
 permalink: /_posts/2020-11-26-blog-post-2_GongDol_LinearAlgebra
 tags:
