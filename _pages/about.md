@@ -17,7 +17,7 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 * Environmental and hydrological studies using remote sensing/reanalysis/ground data
 * Validation of satellite data
 * Improvements of satellite data (accuracy/precesion/spatial resolution)
-* Optimization problems in environmental systems
+* Optimization of environmental systems and models
 * Meta-heuristic algorithms (Genetic Algorithm and [Harmony Search](https://sites.google.com/a/hydroteq.com/www/)), network theory, deep neural network
 
 <b>TEACHING ACTIVITIES:</b>
