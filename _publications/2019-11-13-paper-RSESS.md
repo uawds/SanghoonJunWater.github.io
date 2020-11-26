@@ -13,4 +13,4 @@ Accurate knowledge of the spatiotemporal behavior of soil moisture (SM) can grea
 ## Keywords
 Flood, Soil moisture, Satellite remote sensing, Ungauged basins, Microwave, Improvements, Spatial disaggregation
 
-<br/><img src='/images/2020_RSESS_SM.jpg' width="50%" height="50%">
+<br/><img src='/images/2020_RSESS_SM.jpg' width="70%" height="70%">
