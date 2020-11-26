@@ -1,11 +1,9 @@
 ---
-title: 'Machine Learning from [StatQuest](https://www.youtube.com/c/joshstarmer)'
+title: 'Machine Learning from StatQuest'
 date: 2020-11-26
-permalink: /_posts/2020-11-26-blog-post-1
+permalink: /_posts/2020-11-26-blog-post_1_StatQuest_ML
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Learning  
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
