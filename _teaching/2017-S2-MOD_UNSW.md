@@ -7,7 +7,6 @@ venue: "School of Civil and Environmental Engineering, UNSW Sydney"
 date: 2017-09-25
 location: "Sydney, Australia"
 ---
-## Details
 * Teaching period: S2, 2017
 * Position: Post-Doctoral Teaching Assistant 
 * Role: Teaching, coordinating and consulting
