@@ -97,4 +97,4 @@ Projects Involved
 * Ph.D. candidate, UNSW Sydney, Australia, Jul 2013 - Mar 2017
   * ARC DP, <i>Reducing Flood Loss-Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions</i>, Jul 2013 - Mar 2017
   * Soil Moisture Active Passive Experiment - the 4th campaign ([SMAPEx-4](http://www.smapex.monash.edu.au/Data/SMAPEx-4/SMAPEx-4%20pictures.php)), May 2015
-  <br/><img src='/images/PP.png' width="70%" height="70%">
+  <br/><img src='/images/PP.png' width="50%" height="50%">
