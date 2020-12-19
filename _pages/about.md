@@ -12,6 +12,7 @@ This is Seokhyeon Kim's personal hompage.
 
 ## A short introduction
 I am a researcher in the fields of satellite remote sensing and environmental data science. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
+<br/><img src='/images/IMG_3108.JPG' width="70%" height="70%" alt="WRC_UNSW" class="center">
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Environmental and hydrological studies using remote sensing/reanalysis/ground data
@@ -31,9 +32,9 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
 * Associate Manager, Water resources engineering in [Hyundai Engineering and Construction Co., Ltd](https://en.hdec.kr/intro_en.aspx)., Seoul, Korea, 2008 - 2013   
-<br/><img src='/images/HDEC.jpg' width="70%" height="70%">
+<br/><img src='/images/HDEC.jpg' width="70%" height="70%" alt="HDEC" class="center">
 * First Lieutenant, Republic of Korea Army, 2001 - 2004   
-<br/><img src='/images/ARMY.jpg' width="70%" height="70%">
+<br/><img src='/images/ARMY.jpg' width="70%" height="70%" alt="ARMY" class="center">
 
 ## Selected Journal Publications
 S. Kim, H. Pham, Y. Liu, L. Marshall, A. Sharma. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Transactions on Geoscience and Remote Sensing</i>, Published [(online)](https://ieeexplore.ieee.org/document/9246707).

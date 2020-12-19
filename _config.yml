@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Seokhyeon Kim"
-  avatar           : "Seokhyeon_2018_small.jpg"
+  avatar           : "seokhyeonkim.jpg"
   bio              : "Researcher in WRC@UNSW, expert in satellite remote sensing and environmental data science"
   location         : "Sydney, Australia"
   employer         :
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com.au/citations?user=n-vbEt0AAAAJ&hl=en"
   email            : "seokhyn.kim@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Seokhyeon_Kim"
-  publons          : 
+  publons          : "https://publons.com/researcher/AAR-1863-2020/"
   uri              :
   bitbucket        :
   codepen          :
