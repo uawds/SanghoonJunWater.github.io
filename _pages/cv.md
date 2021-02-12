@@ -76,7 +76,7 @@ Research Experience
 
 Teaching Experiences
 ======
-* Post-Doctoral Teaching Assistant, UNSW Sydney, Australia, Jul 2017 -
+* Post-Doctoral Teaching Assistant, UNSW Sydney, Australia, Jul 2017 - Mar 2020
   *	Teaching, coordinating and consulting for <i>Catchment and Water Resources Modelling</i>, <i>Water Resources Engineering</i>
   * Academic supervision of masters/honours students
 * Teaching Assistant, UNSW Sydney, Australia, Jul 2013 - Mar 2017 
@@ -86,7 +86,7 @@ Professional activities
 ======
 *	Reviewer for Scholarly Journal: International Journal of Applied Earth Observation and Geoinformation; Journal of Hydrology; Remote Sensing of Environment; Stochastic Environmental Research and Risk; PLOS ONE; KSCE Journal of Civil Engineering; ISPRS Journal of Photogrammetry and Remote Sensing; Environmental Research Letters
 *	Conference session convener: Asia Oceania Geosciences Society (AOGS) 2020
-*	Professional membership: Member, Engineers Australia (EA); Member, Australian Water Association (AWA); Member, Korea Water Resources Association (KWRA); Member, Korean Society of Civil Engineers (KSCE)
+*	Professional membership: Member, Engineers Australia (EA); Member, Australian Water Association (AWA); Member, Korean Society of Remote Sensing (KSRS); Member, Korea Water Resources Association (KWRA); Member, Korean Society of Civil Engineers (KSCE)
 
 Projects Involved
 ======
