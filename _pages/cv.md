@@ -96,5 +96,5 @@ Projects Involved
   * ARC Linkage Project, funded by WaterNSW and Sydney Water, <i>Adapting catchment monitoring and portable water treatment to climate change</i>, Apr 2017 - May 2019
 * Ph.D. candidate, UNSW Sydney, Australia, Jul 2013 - Mar 2017
   * ARC DP, <i>Reducing Flood Loss-Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions</i>, Jul 2013 - Mar 2017
-  * Soil Moisture Active Passive Experiment - the 4th campaign ([SMAPEx-4](http://www.smapex.monash.edu.au/Data/SMAPEx-4/SMAPEx-4%20pictures.php)), May 2015
+  * Soil Moisture Active Passive Experiment - the 4th campaign ([SMAPEx-4](http://smapex.monash.edu/Data/SMAPEx-4/SMAPEx-4%20pictures.php)), May 2015
   <br/><img src='/images/PP.png' width="50%" height="50%" alt="SMAPEx_4" class="center">
