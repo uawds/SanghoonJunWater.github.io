@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Seokhyeon Kim's personal hompage. 
+This is Seokhyeon Kim(±è¼®Çö)'s personal hompage. 
 
 ## A short introduction
 I am a researcher in the fields of satellite remote sensing and environmental data science. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
