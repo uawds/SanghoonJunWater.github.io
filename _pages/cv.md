@@ -15,11 +15,11 @@ Education
 ======
 * Doctor of Philosophy (Remote Sensing of Environment, Hydrology), Jul 2013 - Nov 2017
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
-  * Thesis title: <i>Improvements and applications of satellite-derived soil moisture for flood forecasting</i>
+  * Thesis title: [<i>Improvements and applications of satellite-derived soil moisture for flood forecasting</i>](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_47629&context=L)
   * Supervisors: [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en), [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en), [Yi Y. Liu](https://scholar.google.com.au/citations?user=iTSHW9wAAAAJ&hl=en)
 * Master of Engineering (Water Resources Engineering), Mar 2006 - Feb 2008
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
-  * Thesis title: <i>Study for Improving Water Distribution System Reliability</i>
+  * Thesis title: [<i>Study for Improving Water Distribution System Reliability</i>](https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en)
   * Supervisor: [Joong Hoon Kim](https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en)  
 * Bachelor of Engineering (Civil and Environmental Engineering), Mar 1997 - Feb 2001
   * School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
