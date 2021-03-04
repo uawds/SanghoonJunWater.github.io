@@ -37,7 +37,7 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 <br/><img src='/images/ARMY.jpg' width="70%" height="70%" alt="ARMY" class="center">
 
 ## Selected Journal Publications
-S. Kim, A. Anabalon, A. Sharma (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>Journal of Hydrometeorology<i>, 22(1), [231-244](https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml)
+S. Kim, A. Anabalon, A. Sharma. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>Journal of Hydrometeorology<i>, 22(1), [231-244](https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml)
 
 S. Kim, H. Pham, Y. Liu, L. Marshall, A. Sharma. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Transactions on Geoscience and Remote Sensing</i>, Published [(online)](https://ieeexplore.ieee.org/document/9246707).
 
