@@ -51,4 +51,4 @@ S. Kim, Y. Liu, F. Johnson, R. Parinussa, A. Sharma. (2015). A global comparison
 
 
 ## For more info
-More info can be found in [CV](https://steelpl.github.io/cv/) or Dowonload CV[ (Eng, ](https://steelpl.github.io/files/CV_Seokhyeon.pdf)[Kor)](https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf)
+More info can be found in [CV](https://steelpl.github.io/cv/) or Download CV[ (Eng, ](https://steelpl.github.io/files/CV_Seokhyeon.pdf)[Kor)](https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf)

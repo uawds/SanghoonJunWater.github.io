@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Dowonload CV [(Eng, ](https://steelpl.github.io/files/CV_Seokhyeon.pdf)[Kor)](https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf)
+Download CV [(Eng, ](https://steelpl.github.io/files/CV_Seokhyeon.pdf)[Kor)](https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf)
 ======
 
 Education
