@@ -1,13 +1,13 @@
 ---
-title: "Rethinking Satellite Data Merging: From Averaging to SNR Optimization"
+title: "An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets"
 collection: publications
-permalink: /publication/2021-03-23-paper-TechRxiv
-excerpt: Improved data merging method.
-date: 2021-03-23
-venue: 'TechRxiv (submitted to IEEE TGRS)'
-paperurl: https://www.techrxiv.org/articles/preprint/Rethinking_Satellite_Data_Merging_From_Averaging_to_SNR_Optimization/14214035
-citation: 'Kim, S., Sharma, A., Liu, Y., Young S.I. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization. ,<i>TechRxiv (submitted to IEEE TGRS)</i>.'
+permalink: /publication/2020-11-13-paper-JHM
+excerpt: Concurrency in the trends of 11 global ET datasets.
+date: 2021-01-01
+venue: 'Journal of Hydrometeorology'
+paperurl: https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0059.1/JHM-D-20-0059.1.xml
+citation: 'Kim, S., Anabalon, A., & Sharma, A. (2021). An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets. ,<i>Journal of Hydrometeorology</i>, 22(1), 231-244.'
 ---
 ## Abstract
-Merging of multiple satellite datasets is a simple yet effective way to reduce prediction error. However, most merging methods for satellite data today are based on weighted averaging first proposed in 1969 for economic forecasting, which does not provide optimal outcomes when applied to satellite data. If our aim is to produce a merged data product that minimizes the prediction errors against a prediction target, there is no reason to insist that the merged product be an average of the parent datasets. A more disciplined approach based on mathematical optimization would be to minimize prediction errors. However, formulating merging as an optimization problem is insufficient by itself as the statistics needed for optimization, e.g. signal-to-noise ratio (SNR) of parent products, are often unavailable in practice and must be estimated jointly. In this paper, we address both of these problems for data merging. We first formulate optimal merging of satellite data as a SNR optimization (SNR-opt), and propose an estimation method to jointly estimate the required SNRs. This SNR-based approach has a natural interpretation as a multi-input single-output Wiener filter. Through extensive experimental validation on three global- scale satellite-derived soil moisture and land surface temperature products, we demonstrate that our SNR optimization significantly improves merging results over weighted averaging schemes.
-<br/><img src='/images/SNR_opt.jpg' width="90%" height="90%">
+While broad consensus exists that temperatures are increasing, there is uncertainty surrounding the direction of change manifested in actual evapotranspiration (ET) worldwide. This study assessed trends in ET across the land surface using eleven widely used global datasets for a 32-year study period. To demonstrate the agreement and disagreement of trends, the spatial distribution, concurrence, correlation and similitude were estimated. The results showed that while the global average trend in ET is -0.072 mm/month/year, the trends from individual datasets show a wide range of differences in magnitudes and directions. The considerable differences in the trends in each dataset were found to be weakly correlated to each other and highly divergent in their distribution and direction. No single dataset was sufficiently similar to another to offer a fair representation of trends. In a dynamic trend analysis using a 10-year moving window over the study period, high concurrence in the significant trends throughout the datasets was found to be rare for each time period. In general, the global data concurrence became negative by 1997 but rebounded to positive towards the end of the study period. In terms of spatial tendency, some regions were more prone to change the direction of their significant trends within the study period. This shows a high inconsistency in the location and direction of significant ET trends, implying selection of an ET dataset should consider its spatiotemporal uncertainty before use for any water balance study aiming to infer hydrological change over time.
+<br/><img src='/images/2020_JHM_ET.png' width="90%" height="90%">

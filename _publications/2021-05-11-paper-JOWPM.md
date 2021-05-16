@@ -1,13 +1,13 @@
 ---
-title: "Assessing countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems using probabilistic forecasting alternatives"
+title: "An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets"
 collection: publications
-permalink: /publication/2021-05-11-paper-JOWPM
-excerpt: Countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems.
-date: 2021-05-11
-venue: 'Journal of Water Resources Planning and Management'
-paperurl: TBD
-citation: 'Kim S., Mehrotra R., Kim S., Sharma A. (2021). Assessing countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems using probabilistic forecasting alternatives, <i>Journal of Water Resources Planning and Management</i>', Accepted.'
+permalink: /publication/2020-11-13-paper-JHM
+excerpt: Concurrency in the trends of 11 global ET datasets.
+date: 2021-01-01
+venue: 'Journal of Hydrometeorology'
+paperurl: https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-20-0059.1/JHM-D-20-0059.1.xml
+citation: 'Kim, S., Anabalon, A., & Sharma, A. (2021). An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets. ,<i>Journal of Hydrometeorology</i>, 22(1), 231-244.'
 ---
 ## Abstract
-Cyanobacterial blooms are expected to be more frequent over time as more favourable environmental conditions are created in a warming climate. This study proposes strategies to effectively mitigate/reduce the concentration of cyanobacterial blooms based on a probabilistic modelling. The model adopted in this study is a probabilistic forecasting model of cyanobacteria cell counts that uses two dominant variables contributing to cyanobacterial bloom namely, water temperature (T) and water velocity (V) in a river. Both T and V can be manipulated by controlling the upstream flow in the river by altering reservoir operation thereby changing water release downstream. We test and evaluate a variety of discharge scenarios in two river systems in South Korea. Our findings suggest that releasing cold dam water is quite effective to suppress cyanobacterial blooms growth. As a next step we extend the analysis, by also including the cost of each operation and conduct a cost benefit analysis. Following this, we propose response scenarios for each river system by which optimal proactive actions can be taken according to the river conditions given.
-<br/><img src='/images/countermeasure_2021.jpg' width="90%" height="90%">
+While broad consensus exists that temperatures are increasing, there is uncertainty surrounding the direction of change manifested in actual evapotranspiration (ET) worldwide. This study assessed trends in ET across the land surface using eleven widely used global datasets for a 32-year study period. To demonstrate the agreement and disagreement of trends, the spatial distribution, concurrence, correlation and similitude were estimated. The results showed that while the global average trend in ET is -0.072 mm/month/year, the trends from individual datasets show a wide range of differences in magnitudes and directions. The considerable differences in the trends in each dataset were found to be weakly correlated to each other and highly divergent in their distribution and direction. No single dataset was sufficiently similar to another to offer a fair representation of trends. In a dynamic trend analysis using a 10-year moving window over the study period, high concurrence in the significant trends throughout the datasets was found to be rare for each time period. In general, the global data concurrence became negative by 1997 but rebounded to positive towards the end of the study period. In terms of spatial tendency, some regions were more prone to change the direction of their significant trends within the study period. This shows a high inconsistency in the location and direction of significant ET trends, implying selection of an ET dataset should consider its spatiotemporal uncertainty before use for any water balance study aiming to infer hydrological change over time.
+<br/><img src='/images/2020_JHM_ET.png' width="90%" height="90%">
