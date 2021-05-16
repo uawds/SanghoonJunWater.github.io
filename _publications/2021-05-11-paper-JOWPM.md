@@ -2,7 +2,7 @@
 title: "Assessing countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems using probabilistic forecasting alternatives"
 collection: publications
 permalink: /publication/2021-05-11-paper-JOWPM
-excerpt: countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems.
+excerpt: Countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems.
 date: 2021-05-11
 venue: 'Journal of Water Resources Planning and Management'
 paperurl: https://www.researchgate.net/publication/351462445_Assessing_countermeasure_effectiveness_in_controlling_cyanobacterial_exceedance_in_riverine_systems_using_probabilistic_forecasting_alternatives
