@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 This is Seokhyeon Kim's personal hompage. 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1819-8022" href="https://orcid.org/0000-0002-1819-8022" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-1819-8022</a></div>
 
 ## A short introduction
 I am a researcher in the fields of satellite remote sensing and environmental data science. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
