@@ -11,8 +11,8 @@ redirect_from:
 This is Seokhyeon Kim's personal hompage. 
 
 ## A short introduction
-I am a researcher in the fields of satellite remote sensing and environmental data science. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
-<br/><img src='/images/WRC_group.png' width="70%" height="70%" alt="WRC_UNSW" class="center">
+I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
+<br/><img src='/images/WRC_group.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Environmental and hydrological studies using remote sensing/reanalysis/ground data
@@ -31,7 +31,7 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 * B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, South Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
-* Associate Manager, Water resources engineering in [Hyundai Engineering and Construction Co., Ltd](https://en.hdec.kr/intro_en.aspx)., Seoul, Korea, 2008 - 2013   
+* Associate Manager, Water resources engineering in [HDEC](https://en.hdec.kr/intro_en.aspx)., Seoul, Korea, 2008 - 2013   
 <br/><img src='/images/HDEC.jpg' width="70%" height="70%" alt="HDEC" class="center">
 * First Lieutenant, Republic of Korea Army, 2001 - 2004   
 <br/><img src='/images/ARMY.jpg' width="70%" height="70%" alt="ARMY" class="center">
