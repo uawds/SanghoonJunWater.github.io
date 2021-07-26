@@ -19,7 +19,7 @@ I am a researcher in the fields of satellite remote sensing and environmental da
 * Validation of satellite data
 * Improvements of satellite data (accuracy/precesion/spatial resolution)
 * Optimization of environmental systems and models
-* Meta-heuristic algorithms (Genetic Algorithm and [Harmony Search](https://sites.google.com/a/hydroteq.com/www/)), network theory, deep neural network
+* Meta-heuristic algorithms, network theory, deep neural network
 
 <b>TEACHING ACTIVITIES:</b>
 * <i>Water Resources Engineering</i> (in UNSW)
