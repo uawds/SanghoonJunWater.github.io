@@ -26,28 +26,28 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 * <i>Catchment and Water Resources Modelling</i> (in UNSW)
 
 <b>EDUCATION:</b>
-* Ph.D. in Remote Sensing of Environment and Hydrology (Advisor: [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-57711b55/?originalSubdomain=au)), University of New South Wales, Sydney, Australia, 2017
-* M.Eng. in Water Resources Engineering (Advisor: [Joong Hoon Kim](http://opti.korea.ac.kr/professor/profile.php)), Korea University, Seoul, South Korea, 2008
-* B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, South Korea, 2001
+* Ph.D. in Water Resources Engineering and Remote Sensing of Environment (Supervisor: [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-57711b55/?originalSubdomain=au)), University of New South Wales, Sydney, Australia, 2017
+* M.Eng. in Water Resources Engineering (Supervisor: [Joong Hoon Kim](http://opti.korea.ac.kr/professor/profile.php)), Korea University, Seoul, Republic of Korea, 2008
+* B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
-* Associate Manager, Water resources engineering in [HDEC](https://en.hdec.kr/intro_en.aspx)., Seoul, Korea, 2008 - 2013   
+* Associate Manager, Water resources engineering in [HDEC](https://en.hdec.kr/intro_en.aspx)., Seoul, Republic of Korea, 2008 - 2013   
 <br/><img src='/images/HDEC.jpg' width="70%" height="70%" alt="HDEC" class="center">
 * First Lieutenant, Republic of Korea Army, 2001 - 2004   
 <br/><img src='/images/ARMY.jpg' width="70%" height="70%" alt="ARMY" class="center">
 
 ## Selected Journal Publications
-S. Kim, A. Anabalon, A. Sharma. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>Journal of Hydrometeorology<i>, 22(1), [231-244](https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml)
+S. Kim, A. Anabalon, A. Sharma. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.<i>, 22(1), [231-244](https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml)
 
-S. Kim, H. Pham, Y. Liu, L. Marshall, A. Sharma. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Transactions on Geoscience and Remote Sensing</i>, Published [(Early Access)](https://ieeexplore.ieee.org/document/9246707).
+S. Kim, H. Pham, Y. Liu, L. Marshall, A. Sharma. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Trans. Geosci. Remote Sens.</i>, [Early Access](https://ieeexplore.ieee.org/document/9246707).
 
-S. Kim, A. Sharma. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, <i>Water Resources Research</i>, 55(2), [1707-1716](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023627).
+S. Kim, A. Sharma. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, <i>Water Resour. Res.</i>, 55(2), [1707-1716](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023627).
 
-S. Kim, K. Paik, F. Johnson, A. Sharma. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, <i>IEEE J. of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 11(2), [375-387](https://ieeexplore.ieee.org/abstract/document/8276238/).
+S. Kim, K. Paik, F. Johnson, A. Sharma. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, <i>IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.</i>, 11(2), [375-387](https://ieeexplore.ieee.org/abstract/document/8276238/).
 
-S. Kim, K. Balakrishnan, Y. Liu, F. Johnson, A. Sharma. (2017). Spatial Disaggregation of Coarse Soil Moisture Data by Using High Resolution Remotely Sensed Vegetation Products, <i>IEEE Geoscience and Remote Sensing Letters</i>, 14(9), [1604-1608](https://ieeexplore.ieee.org/abstract/document/7999216).
+S. Kim, K. Balakrishnan, Y. Liu, F. Johnson, A. Sharma. (2017). Spatial Disaggregation of Coarse Soil Moisture Data by Using High Resolution Remotely Sensed Vegetation Products, <i>IEEE Geosci. Remote. Sens. Lett.</i>, 14(9), [1604-1608](https://ieeexplore.ieee.org/abstract/document/7999216).
 
-S. Kim, Y. Liu, F. Johnson, R. Parinussa, A. Sharma. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? <i>Remote Sensing of Environment</i>, 161 (0), [43-62](https://www.sciencedirect.com/science/article/pii/S0034425715000486).
+S. Kim, Y. Liu, F. Johnson, R. Parinussa, A. Sharma. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? <i>Remote Sens. Environ.</i>, 161 (0), [43-62](https://www.sciencedirect.com/science/article/pii/S0034425715000486).
 
 
 ## For more info
