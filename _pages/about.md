@@ -12,8 +12,7 @@ This is Seokhyeon Kim's personal hompage.
 
 ## A short introduction
 I am a researcher in the fields of satellite remote sensing and environmental data science. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
-<br/><img src='/images/IMG_3108.JPG' width="70%" height="70%" alt="WRC_UNSW" class="center">
-<br/><img src='/images/thesisSubmission.jpg' width="70%" height="70%" alt="WRC_UNSW2" class="center">
+<br/><img src='/images/WRC_group.png' width="70%" height="70%" alt="WRC_UNSW" class="center">
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Environmental and hydrological studies using remote sensing/reanalysis/ground data
