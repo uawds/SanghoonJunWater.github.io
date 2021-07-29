@@ -5,7 +5,7 @@ permalink: /publication/2021-05-11-paper-JOWPM
 excerpt: Countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems.
 date: 2021-05-11
 venue: 'Journal of Water Resources Planning and Management'
-paperurl: https://www.researchgate.net/profile/Seokhyeon-Kim/research
+paperurl: https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001449
 citation: 'Kim S., Mehrotra R., Kim S., Sharma A. (2021). Assessing countermeasure effectiveness in controlling cyanobacterial exceedance in riverine systems using probabilistic forecasting alternatives, <i>Journal of Water Resources Planning and Management</i>, 147(10), 04021062'
 ---
 ## Abstract
