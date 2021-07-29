@@ -32,9 +32,10 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
 * Associate Manager, Water resources engineering in [HDEC](https://en.hdec.kr/intro_en.aspx)., Seoul, Republic of Korea, 2008 - 2013   
-<br/><img src='/images/HDEC.jpg' width="70%" height="70%" alt="HDEC" class="center">
 * First Lieutenant, Republic of Korea Army, 2001 - 2004   
-<br/><img src='/images/ARMY.jpg' width="70%" height="70%" alt="ARMY" class="center">
+<br/><img src='/images/HDEC_ROKA.png' width="100%" height="100%" alt="HDEC_ROKA" class="center">
+
+
 
 ## Selected Journal Publications
 S. Kim, A. Anabalon, A. Sharma. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.<i>, 22(1), [231-244](https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml)
