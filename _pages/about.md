@@ -33,7 +33,7 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
 * Associate Manager, Water resources engineering in [HDEC](https://en.hdec.kr/intro_en.aspx)., Seoul, Republic of Korea, 2008 - 2013   
 * First Lieutenant, Republic of Korea Army, 2001 - 2004   
-<br/><img src='/images/Picture3.jpg' width="100%" height="100%" alt="HDEC_ROKA" class="center">
+<br/><img src='/images/HDEC_ARMY.jpg' width="100%" height="100%" alt="HDEC_ROKA" class="center">
 
 
 
