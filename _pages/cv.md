@@ -16,7 +16,7 @@ Education
 * Ph.D. (Water Resources Engineering and Remote Sensing of Environment), Jul 2013 - Nov 2017
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
   * Thesis: [<i>Improvements and applications of satellite-derived soil moisture for flood forecasting</i>](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_47629&context=L)
-  * Supervisors: [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en), [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en), [Yi Y. Liu](https://scholar.google.com.au/citations?user=iTSHW9wAAAAJ&hl=en)
+  * Supervisors: [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en), [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en), [Yi Y. Liu](https://www.unsw.edu.au/engineering/our-people/yi-liu)
 * Master of Engineering (Water Resources Engineering), Mar 2006 - Feb 2008
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
   * Thesis: [<i>Study for Improving Water Distribution System Reliability</i>](https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en)
