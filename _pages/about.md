@@ -38,7 +38,7 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 
 
 ## Selected Journal Publications
-Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, Accepted.
+Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, Accepted, [Preprint](https://www.researchgate.net/publication/349961492_Rethinking_Satellite_Data_Merging_From_Averaging_to_SNR_Optimization_techrxiv14214035).
 
 Kim S., Anabalon A., Sharma A. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.<i>, 22(1), [231-244](https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml).
 
