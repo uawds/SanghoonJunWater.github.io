@@ -38,20 +38,19 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 
 
 ## Selected Journal Publications
-Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, <i>Early Access</i>, <a href="https://ieeexplore.ieee.org/document/9531937" target="_blank" rel="noopener noreferrer">Link</a>.
+Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, <a href="https://ieeexplore.ieee.org/document/9531937" target="_blank" rel="noopener noreferrer">Early Access</a>.
 
-Kim S., Anabalon A., Sharma A. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.<i>, 22(1), [231-244](https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml).
+Kim S., Anabalon A., Sharma A. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.<i>, 22(1), <a href="https://journals.ametsoc.org/view/journals/hydr/22/1/jhm-d-20-0059.1.xml" target="_blank" rel="noopener noreferrer">231-244</a>.
 
-Kim S., Pham H., Liu Y., Marshall L., Sharma A. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Trans. Geosci. Remote Sens.</i>, 59(9), [7285-7295](https://ieeexplore.ieee.org/document/9246707).
+Kim S., Pham H., Liu Y., Marshall L., Sharma A. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Trans. Geosci. Remote Sens.</i>, 59(9), <a href="https://ieeexplore.ieee.org/document/9246707" target="_blank" rel="noopener noreferrer">7285-7295</a>.
 
-Kim S., Sharma A. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, <i>Water Resour. Res.</i>, 55(2), [1707-1716](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023627).
+Kim S., Sharma A. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, <i>Water Resour. Res.</i>, 55(2), <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023627" target="_blank" rel="noopener noreferrer">1707-1716</a>.
 
-Kim S., Paik K., Johnson F., Sharma A. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, <i>IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.</i>, 11(2), [375-387](https://ieeexplore.ieee.org/abstract/document/8276238/).
+Kim S., Paik K., Johnson F., Sharma A. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, <i>IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.</i>, 11(2), <a href="https://ieeexplore.ieee.org/abstract/document/8276238/" target="_blank" rel="noopener noreferrer">375-387</a>.
 
-Kim S., Balakrishnan K., Liu Y., Johnson F., Sharma A. (2017). Spatial Disaggregation of Coarse Soil Moisture Data by Using High Resolution Remotely Sensed Vegetation Products, <i>IEEE Geosci. Remote. Sens. Lett.</i>, 14(9), [1604-1608](https://ieeexplore.ieee.org/abstract/document/7999216).
+Kim S., Balakrishnan K., Liu Y., Johnson F., Sharma A. (2017). Spatial Disaggregation of Coarse Soil Moisture Data by Using High Resolution Remotely Sensed Vegetation Products, <i>IEEE Geosci. Remote. Sens. Lett.</i>, 14(9), <a href="https://ieeexplore.ieee.org/abstract/document/7999216">1604-1608</a>.
 
-Kim S., Liu Y., Johnson F., Parinussa R., Sharma A. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? <i>Remote Sens. Environ.</i>, 161 (0), [43-62](https://www.sciencedirect.com/science/article/pii/S0034425715000486).
-
+Kim S., Liu Y., Johnson F., Parinussa R., Sharma A. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? <i>Remote Sens. Environ.</i>, 161 (0), <a href="https://www.sciencedirect.com/science/article/pii/S0034425715000486">43-62</a>.
 
 ## For more info
 More info can be found in [CV](https://steelpl.github.io/cv/) or Download CV[ (Eng, ](https://steelpl.github.io/files/CV_Seokhyeon.pdf)[Kor)](https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf)
