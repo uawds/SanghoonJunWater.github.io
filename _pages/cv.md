@@ -8,8 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng</a>, 
-<a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a>
+Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng</a>, <a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a>
 ======
 
 Education
