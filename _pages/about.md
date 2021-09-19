@@ -11,7 +11,7 @@ redirect_from:
 This is Seokhyeon Kim's personal hompage. 
 
 ## A short introduction
-I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
+I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working in <a href="https://www.wrc.unsw.edu.au/" target="_blank" rel="noopener noreferrer">WRC@UNSW</a>.
 <br/><img src='/images/WRC_group.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
@@ -53,4 +53,4 @@ Kim S., Balakrishnan K., Liu Y., Johnson F., Sharma A. (2017). Spatial Disaggreg
 Kim S., Liu Y., Johnson F., Parinussa R., Sharma A. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? <i>Remote Sens. Environ.</i>, 161 (0), <a href="https://www.sciencedirect.com/science/article/pii/S0034425715000486">43-62</a>.
 
 ## For more info
-More info can be found in [CV](https://steelpl.github.io/cv/) or Download CV[ (Eng, ](https://steelpl.github.io/files/CV_Seokhyeon.pdf)[Kor)](https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf)
+More info can be found in [CV](https://steelpl.github.io/cv/) or Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng, </a><a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a> 
