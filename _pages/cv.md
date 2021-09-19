@@ -8,7 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng, </a><a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a>
+Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng</a>, 
+<a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a>
 ======
 
 Education
@@ -22,8 +23,8 @@ Education
 
 * Master of Engineering (Water Resources Engineering), Mar 2006 - Feb 2008
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
-  * Thesis: [<i>Study for Improving Water Distribution System Reliability</i>](https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en)
-  * Supervisor: [Joong Hoon Kim](https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en)  
+  * Thesis: <a href="https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en" target="_blank" rel="noopener noreferrer">Study for Improving Water Distribution System Reliability</a>
+  * Supervisor: <a href="https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>
 * Bachelor of Engineering (Civil and Environmental Engineering), Mar 1997 - Feb 2001
   * School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
 
@@ -98,5 +99,5 @@ Projects Involved
   * ARC Linkage Project, funded by WaterNSW and Sydney Water, <i>Adapting catchment monitoring and portable water treatment to climate change</i>, Apr 2017 - May 2019
 * Ph.D. candidate, UNSW Sydney, Australia, Jul 2013 - Mar 2017
   * ARC DP, <i>Reducing Flood Loss-Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions</i>, Jul 2013 - Mar 2017
-  * Soil Moisture Active Passive Experiment - the 4th campaign ([SMAPEx-4](https://www.smapex.monash.edu/Data/SMAPEx-4/SMAPEx-4%20pictures.php)), May 2015
+  * Soil Moisture Active Passive Experiment - the 4th campaign <a href="https://www.smapex.monash.edu/Data/SMAPEx-4/SMAPEx-4%20pictures.php" target="_blank" rel="noopener noreferrer">SMAPEx-4</a>, May 2015
   <br/><img src='/images/PP.png' width="50%" height="50%" alt="SMAPEx_4" class="center">
