@@ -26,8 +26,8 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 * <i>Catchment and Water Resources Modelling</i> (in UNSW)
 
 <b>EDUCATION:</b>
-* Ph.D. in Water Resources Engineering and Remote Sensing of Environment (Supervisor: <a href="https://research.unsw.edu.au/people/professor-ashish-sharma" rel="noopener noreferrer">Ashish Sharma</a>, University of New South Wales, Sydney, Australia, 2017
-* M.Eng. in Water Resources Engineering (Supervisor: <a href="http://harmonysearchalgorithm.com/introduction/professor.html"_blank" rel="noopener noreferrer">Joong Hoon Kim</a>, Korea University, Seoul, Republic of Korea, 2008
+* Ph.D. in Water Resources Engineering and Remote Sensing of Environment (Supervisor: <a href="https://research.unsw.edu.au/people/professor-ashish-sharma" target="_blank" rel="noopener noreferrer">Ashish Sharma</a>, University of New South Wales, Sydney, Australia, 2017
+* M.Eng. in Water Resources Engineering (Supervisor: <a href="http://harmonysearchalgorithm.com/introduction/professor.html" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>, Korea University, Seoul, Republic of Korea, 2008
 * B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
