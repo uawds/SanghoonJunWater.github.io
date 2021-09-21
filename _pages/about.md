@@ -26,12 +26,12 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 * <i>Catchment and Water Resources Modelling</i> (in UNSW)
 
 <b>EDUCATION:</b>
-* Ph.D. in Water Resources Engineering and Remote Sensing of Environment (Supervisor: [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-57711b55/?originalSubdomain=au)), University of New South Wales, Sydney, Australia, 2017
-* M.Eng. in Water Resources Engineering (Supervisor: [Joong Hoon Kim](http://opti.korea.ac.kr/professor/profile.php)), Korea University, Seoul, Republic of Korea, 2008
+* Ph.D. in Water Resources Engineering and Remote Sensing of Environment (Supervisor: <a href="https://research.unsw.edu.au/people/professor-ashish-sharma" rel="noopener noreferrer">Ashish Sharma</a>, University of New South Wales, Sydney, Australia, 2017
+* M.Eng. in Water Resources Engineering (Supervisor: <a href="http://harmonysearchalgorithm.com/introduction/professor.html"_blank" rel="noopener noreferrer">Joong Hoon Kim</a>, Korea University, Seoul, Republic of Korea, 2008
 * B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
-* Associate Manager, Water resources engineering in [HDEC](https://en.hdec.kr/intro_en.aspx)., Seoul, Republic of Korea, 2008 - 2013   
+* Associate Manager, Water resources engineering in <a href="https://en.hdec.kr/intro_en.aspx" target="_blank" rel="noopener noreferrer">HDEC</a>, Republic of Korea, 2008 - 2013   
 * First Lieutenant, Republic of Korea Army, 2001 - 2004   
 <br/><img src='/images/HDEC_ARMY.jpg' width="100%" height="100%" alt="HDEC_ROKA" class="center">
 
