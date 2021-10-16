@@ -3,6 +3,8 @@ title: "Improvement of satellite data"
 excerpt: "This project aims to improve satellite (not limited to) data. The method that we are currently developing is merging multiple datasets derived from various sources"
 collection: project
 ---
+## Goal
+This project aims to improve satellite (not limited to) data. The method that we are currently developing is merging multiple datasets derived from various sources.
 
 ## Papers
 [1]	S. Kim, R. M. Parinussa, Y. Y. Liu, F. M. Johnson, and A. Sharma, “A framework for combining multiple soil moisture retrievals based on maximizing temporal correlation,” Geophys Res Lett, vol. 42, no. 16, pp. 6662-6670, 2015.
