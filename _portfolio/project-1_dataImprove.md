@@ -16,5 +16,3 @@ This project aims to improve satellite (not limited to) data. The method that we
 *[4]	Kim S., Pham H., Liu Y., Marshall L., Sharma A. (2020). Improving the combination of satellite soil moisture datasets by considering error cross-correlation: A comparison between triple collocation (TC) and extended double instrumental variable (EIVD) alternatives, <i>IEEE Trans. Geosci. Remote Sens.</i>, 59(9), <a href="https://steelpl.github.io/publication/2020-11-02-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">7285-7295</a>.
 
 *[5]	Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, Early Access, <a href="https://steelpl.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">1-15</a>.
-
-11:30 AM 16/10/2021
