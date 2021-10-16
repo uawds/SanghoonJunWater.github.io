@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of satellite data"
-excerpt: "To evaluate various satellite data for further improvement and/or applications."
+excerpt: "This project aims to evaluate various satellite data for further improvement and/or applications."
 collection: project
 ---
 ## Goal
