@@ -4,7 +4,7 @@ excerpt: "This project aims to evaluate various satellite data for further impro
 collection: project
 ---
 ## Goal
-This project aims to evaluate various satellite data for further improvement and/or applications..
+This project aims to evaluate various satellite data for further improvement and/or applications.
 
 ## Papers
 * Kim S., Dong J., Sharma A. (2021). A triple collocation-based comparison of three L-band soil moisture datasets, SMAP, SMOS-IC, and SMOS, over varied climates and land covers, <i>Frontiers in Water</i>, 3, <a href="https://steelpl.github.io/publication/2021-06-28-paper-FronWat" target="_blank" rel="noopener noreferrer">64</a>.
