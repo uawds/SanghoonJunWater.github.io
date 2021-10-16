@@ -7,7 +7,7 @@ collection: project
 This project aims to improve satellite (not limited to) data. The method that we are currently developing is merging multiple datasets derived from various sources.
 
 ## Papers
-[1]	S. Kim, R. M. Parinussa, Y. Y. Liu, F. M. Johnson, and A. Sharma, “A framework for combining multiple soil moisture retrievals based on maximizing temporal correlation,” Geophys Res Lett, vol. 42, no. 16, pp. 6662-6670, 2015.
+[1]	Kim, S., Parinussa, R. M., Liu, Y. Y., Johnson, F. M., & Sharma, A. (2015). A framework for combining multiple soil moisture retrievals based on maximizing temporal correlation. <i>Geophysical Research Letters</i>, 42(16), [6662-6670]</publication/2015-07-23-paper-GRL>.
 
 [2]	S. Kim, R. M. Parinussa, Y. Y. Liu, F. M. Johnson, and A. Sharma, “Merging Alternate Remotely-Sensed Soil Moisture Retrievals Using a Non-Static Model Combination Approach,” Remote Sens, vol. 8, no. 6, p. 518, 2016.
 
