@@ -17,3 +17,4 @@ This project aims to improve satellite (not limited to) data. The method that we
 
 *[5]	Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, Early Access, <a href="https://steelpl.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">1-15</a>.
 
+11:30 AM 16/10/2021
