@@ -49,6 +49,8 @@ Presentations
   
 Awards & Scholarship
 ======
+* Early Career Research Excellence (ECRE) Award: MSSANZ, 2021
+* UNSW Early Career Academic Seed grants (AUD 1,000): UNSW Sydney, 2021
 * UNSW Strategic Research Fund (AUD 4,000): UNSW Sydney, 2021
 * UNSW Postgraduate Writing Fellowship (AUD 6,500): UNSW Sydney, May 2017 – Aug 2017
 * Tuition Fee, Stipend and Top-up Scholarship: UNSW Sydney, Jul 2013 – Jan 2017
