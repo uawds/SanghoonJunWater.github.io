@@ -1,0 +1,13 @@
+---
+title: "Development of Car-free Street Mapping (CfSM) Model using an Integrated System with Unmanned Aerial Vehicle, Aerial Mapping Camera and Deep Learning Algorithm"
+collection: publications
+permalink: /publication/2021-11-19-paper-JOCC
+excerpt: Development of car-free street map.
+date: 2021-11-19
+venue: 'Journal of Computing in Civil Engineering'
+paperurl: 
+citation: 'Lee, S., Kim, S., Moonb, S. (2021). Lee, S., Kim S., and Moon S., Development of Car-free Street Mapping (CfSM) Model using an Integrated System with Unmanned Aerial Vehicle, Aerial Mapping Camera and Deep Learning Algorithm, <i>Journal of Computing in Civil Engineering</i>, Accepted'
+---
+## Abstract
+Road condition and quality are critical factors for road maintenance and risk reduction. Most of the existing road monitoring systems are undertaken with regular on-site surveys and maintenance. However, major roads in urban areas are generally complicated and have heavy traffic during the daytime, so such field investigation can be significantly limited. Moreover, any road works at nighttime can be risky and dangerous and incur excessive expenses. Based on reviewing existing systems for monitoring road conditions, this study focuses on overcoming two unsolved challenges: the capacity of monitoring range and the avoidance techniques to ensure traffics is not hindered. For this, this paper proposes an integrated road monitoring system called Car-free Street Mapping (CfSM) using unmanned aerial vehicles (UAV), aerial mapping cameras, and deep learning (DL) algorithms. The use of the aerial mapping camera mounted on the UAV is for widening the monitoring viewing range, and general-purpose drones are used in this study rather than expensive special equipment. Since the drone-taken images include many passing vehicles that conceal the road surface from the camera vision, the DL model was applied to detect the vehicles and their shadows and to remove them from the images. To train the DL model, two image datasets were used: publicly available Cars Overhead With Context (COWC) images and orthoimages additionally taken for the project to further improve the accuracy. The two datasets consist of 298,623 labeled objects on 9,331 images in total. The tests resulted in a mean average precision (mAP) of 89.57% for trucks, 95.77% for passenger vehicles, and 76.51% for buses. Finally, the object-removed images were composited into one whole car-free image. The CfSM was applied to two areas in Yeouido and Sangam-dong, Seoul, Korea. The car-free images in both regions show a spatial resolution of 10 mm and can be used for various purposes such as road maintenance and management, and autonomous vehicle roadmaps.
+<br/><img src='/images/CfSM.png' width="90%" height="90%">
