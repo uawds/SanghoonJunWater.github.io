@@ -8,25 +8,28 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV [(Eng, ](https://steelpl.github.io/files/CV_Seokhyeon.pdf)[Kor)](https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf)
+Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng</a>, <a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a>
 ======
 
 Education
 ======
-* Doctor of Philosophy (Remote Sensing of Environment, Hydrology), Jul 2013 - Nov 2017
+* Ph.D. (Water Resources Engineering and Remote Sensing of Environment), Jul 2013 - Nov 2017
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
-  * Thesis title: [<i>Improvements and applications of satellite-derived soil moisture for flood forecasting</i>](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_47629&context=L)
-  * Supervisors: [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en), [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en), [Yi Y. Liu](https://scholar.google.com.au/citations?user=iTSHW9wAAAAJ&hl=en)
+  * Thesis: <a href="https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_47629&context=L" target="_blank" rel="noopener noreferrer">Improvements and applications of satellite-derived soil moisture for flood forecasting</a>
+  * Supervisors: <a href="https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Ashish Sharma</a>, 
+<a href="https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Fiona Johnson</a>, 
+<a href="https://www.unsw.edu.au/engineering/our-people/yi-liu" target="_blank" rel="noopener noreferrer">Yi Liu</a>
+
 * Master of Engineering (Water Resources Engineering), Mar 2006 - Feb 2008
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
-  * Thesis title: [<i>Study for Improving Water Distribution System Reliability</i>](https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en)
-  * Supervisor: [Joong Hoon Kim](https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en)  
+  * Thesis: <a href="https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en" target="_blank" rel="noopener noreferrer">Study for Improving Water Distribution System Reliability</a>
+  * Supervisor: <a href="https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>
 * Bachelor of Engineering (Civil and Environmental Engineering), Mar 1997 - Feb 2001
   * School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
 
 Professional Appointments
 ======
-* Associate Manager, Water resources engineering in Hyundai Engineering and Construction Co., Ltd., Seoul, Korea, Jan 2008 - Jul 2013
+* Associate Manager, Water resources engineering in HDEC, Seoul, Republic of Korea, Jan 2008 - Jul 2013
 
 Military services (compulsory)
 ======
@@ -46,11 +49,10 @@ Presentations
   
 Awards & Scholarship
 ======
-* Postgraduate Writing Fellowship (AUD 6,500): UNSW Sydney, NSW, Australia, May 2017 - Aug 2017
-* Tuition Fee and Top-up Scholarship: UNSW Sydney, NSW, Australia, Jul 2013 - Jan 2017
-* Administrative Assistant Scholarship: Korea University, Seoul, Republic of Korea, Fall Semester, 2007
-* GS E&C Corporation Scholarship: GS Engineering & Construction Corporation, Seoul, Republic of Korea, Fall Semester, 2006
-* The Second Stage of Brain Korea 21 Scholarship: The Brain Korea 21, National Research Foundation of Korea, Daejeon, Republic of Korea, Spring Semester, 2006
+* UNSW Strategic Research Fund (AUD 4,000): UNSW Sydney, 2021
+* UNSW Postgraduate Writing Fellowship (AUD 6,500): UNSW Sydney, May 2017 – Aug 2017
+* Tuition Fee, Stipend and Top-up Scholarship: UNSW Sydney, Jul 2013 – Jan 2017
+* Scholarships from Administrative Assistant, GS E&C Corp., and NRKF BK 21: Korea University, 2006 – 2007
 
 Certification
 ======
@@ -59,11 +61,11 @@ Certification
 
 Languages
 ======
-Korean, English
+Korean (mother tongue), English (fluent)
 
 Skills & Expertise 
 ======
-Satellite remote sensing, hydrology, water system, optimization, MATLAB, Python, ArcGIS
+Hydrology and water resources engineering, remote sensing, MATLAB, Python, ArcGIS/QGIS
 
 Research Experience
 ======
@@ -77,15 +79,15 @@ Research Experience
 Teaching Experiences
 ======
 * Post-Doctoral Teaching Assistant, UNSW Sydney, Australia, Jul 2017 - Mar 2020
-  *	Teaching, coordinating and consulting for <i>Catchment and Water Resources Modelling</i>, <i>Water Resources Engineering</i>
+  *	Teaching, coordinating and consulting for <i>Catchment and Water Resources Modelling</i> (PG), <i>Water Resources Engineering</i> (UG)
   * Academic supervision of masters/honours students
 * Teaching Assistant, UNSW Sydney, Australia, Jul 2013 - Mar 2017 
 * Teaching Assistant, Korea University, Seoul, Republic of Korea, Mar 2006 - Feb 2008 
 
 Professional activities
 ======
-*	Reviewer for Scholarly Journal: International Journal of Applied Earth Observation and Geoinformation; Journal of Hydrology; Remote Sensing of Environment; Stochastic Environmental Research and Risk; PLOS ONE; KSCE Journal of Civil Engineering; ISPRS Journal of Photogrammetry and Remote Sensing; Environmental Research Letters
-*	Conference session convener: Asia Oceania Geosciences Society (AOGS) 2020
+*	Reviewer for Scholarly Journal: Int. J. Appl. Earth Obs. Geoinf.; J. Hydrol.; Remote Sens. Environ.; Stoch Environ Res Risk Assess; PLOS ONE; KSCE J. Civ. Eng.; ISPRS J. Photogramm. Remote Sens.; Environ. Res. Lett.; ISPRS Int. J. Geo-Inf.
+*	Conference session convener: AOGS 2020 and MODSIM 2021
 *	Professional membership: Member, Engineers Australia (EA); Member, Australian Water Association (AWA); Member, Korean Society of Remote Sensing (KSRS); Member, Korea Water Resources Association (KWRA); Member, Korean Society of Civil Engineers (KSCE)
 
 Projects Involved
@@ -96,5 +98,5 @@ Projects Involved
   * ARC Linkage Project, funded by WaterNSW and Sydney Water, <i>Adapting catchment monitoring and portable water treatment to climate change</i>, Apr 2017 - May 2019
 * Ph.D. candidate, UNSW Sydney, Australia, Jul 2013 - Mar 2017
   * ARC DP, <i>Reducing Flood Loss-Data Assimilation Framework for Improving Forecasting Capability in Sparsely Gauged Regions</i>, Jul 2013 - Mar 2017
-  * Soil Moisture Active Passive Experiment - the 4th campaign ([SMAPEx-4](https://www.smapex.monash.edu/Data/SMAPEx-4/SMAPEx-4%20pictures.php)), May 2015
+  * Soil Moisture Active Passive Experiment - the 4th campaign <a href="https://www.smapex.monash.edu/Data/SMAPEx-4/SMAPEx-4%20pictures.php" target="_blank" rel="noopener noreferrer">SMAPEx-4</a>, May 2015
   <br/><img src='/images/PP.png' width="50%" height="50%" alt="SMAPEx_4" class="center">
