@@ -1,5 +1,5 @@
 ---
-title: "[Invited] How does total precipitable water link to precipitation extremes?"
+title: "How does total precipitable water link to precipitation extremes?"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-12-09-talk-MODSIM
