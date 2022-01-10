@@ -38,6 +38,8 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 
 
 ## Selected Journal Publications
+Kim S., Sharma A., Wasko C., Nathan R. (2022). Linking total precipitable water to precipitation extremes globally, <i>Earth’s Future</i>, Accepted.
+
 Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, Early Access, <a href="https://steelpl.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">1-15</a>.
 
 Kim S., Anabalon A., Sharma A. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.<i>, 22(1), <a href="https://steelpl.github.io/publication/2020-11-13-paper-JHM" target="_blank" rel="noopener noreferrer">231-244</a>.
@@ -46,7 +48,6 @@ Kim S., Sharma A. (2019). The role of floodplain topography in deriving basin di
 
 Kim S., Paik K., Johnson F., Sharma A. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, <i>IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.</i>, 11(2), <a href="https://steelpl.github.io/publication/2018-01-31-paper-IEEE_JSTARS" target="_blank" rel="noopener noreferrer">375-387</a>.
 
-Kim S., Liu Y., Johnson F., Parinussa R., Sharma A. (2015). A global comparison of alternate AMSR2 soil moisture products: Why do they differ? <i>Remote Sens. Environ.</i>, 161 (0), <a href="https://steelpl.github.io/publication/2015-05-01-paper-RSE" target="_blank" rel="noopener noreferrer">43-62</a>.
 
 ## For more info
 More info can be found in [CV](https://steelpl.github.io/cv/) or Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng, </a><a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a> 
