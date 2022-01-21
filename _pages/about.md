@@ -11,7 +11,7 @@ redirect_from:
 This is Sanghoon Jun's personal hompage. 
 
 ## A short introduction
-I am a Ph.D. Candidate in the University of Arizoan. I am currently working as a research assistant with Dr. Lansey in Civil and Architectural Engineering and Mechnanics  <a href="https://www.wrc.unsw.edu.au/" target="_blank" rel="noopener noreferrer">WRC@UNSW</a>.
+I am a Ph.D. Candidate in the University of Arizoan. I am currently working as a research assistant with Dr. Lansey in Civil and Architectural Engineering and Mechnanics  <a href="https://https://caem.engineering.arizona.edu//" target="_blank" rel="noopener noreferrer">UofA_CAEM</a>.
 <br/><img src='/images/WRC_20211217.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
