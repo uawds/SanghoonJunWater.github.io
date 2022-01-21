@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sanghoon Jun"
 description              : &description "He/Him/His"
-url                      : https://sanghoonjunwater.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://uawds.github.io/uawdsSJ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SanghoonJunWater/SanghoonJunWater.github.io"
+repository               : "uawds/uawdsSJ.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sanghoon Jun"
-  avatar           : "sanghoonjun.jpg"
-  bio              : "PhD Candidate in The University of Arizona"
+  name             : "CAEM"
+  avatar           : 
+  bio              : "Civil and Architectural Engineering and Mechanics"
   location         : "Tucson, Arizona"
   employer         :
   pubmed           : 
