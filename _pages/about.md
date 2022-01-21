@@ -30,4 +30,4 @@ I am currently working as a research assistant in the Department of Civil and Ar
 ## Recent Journal Publications
 Jun, S., Jung, D., Lansey, K.E. (2021). Comparison of Imputation Methods for End-User Demands in Water Distribution Systems, <i>Journal of Water Resources Planning and Management</i>, 147(12), <a href="https://sanghoonjunwater.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">04021080</a>.
 
-Jun, S., Arbesser-Rastburg, G., Fuchs-Hanusch, D., Lansey, K. (2022) Response Surfaces for Water Distribution System Pipe Roughness Calibration, <i>Journal of Water Resources Planning and Management<i>, 148(3), <a href="https://steelpl.github.io/publication/2020-11-13-paper-JHM" target="_blank" rel="noopener noreferrer">04021105</a>.
+Jun, S., Arbesser-Rastburg, G., Fuchs-Hanusch, D., Lansey, K. (2022) Response Surfaces for Water Distribution System Pipe Roughness Calibration, <i>Journal of Water Resources Planning and Management<i>, 148(3), <a href="https://sanghoonjunwater.github.io/publication/2020-11-13-paper-JHM" target="_blank" rel="noopener noreferrer">04021105</a>.
