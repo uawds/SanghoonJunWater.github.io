@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Seokhyeon Kim"
-description              : &description "Researcher in WRC@UNSW, Sydney, Australia"
-url                      : https://steelpl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sanghoon Jun"
+description              : &description "PhD Candidate in The University of Arizona"
+url                      : https://sanghoonjunwater.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "steelpl.github.io"
+repository               : "SanghoonJunWater/SanghoonJunWater.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seokhyeon Kim"
+  name             : "Sanghoon Jun"
   avatar           : "seokhyeonkim_cent.jpg"
-  bio              : "Researcher in WRC@UNSW, expert in hydrology, water resources and satellite remote sensing"
-  location         : "Sydney, Australia"
+  bio              : "PhD Candidate in The University of Arizona"
+  location         : "Tucson, Arizona"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.au/citations?user=n-vbEt0AAAAJ&hl=en"
-  email            : "seokhyn.kim@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Seokhyeon_Kim"
-  publons          : "https://publons.com/researcher/3713985/seokhyeon-kim/"
+  googlescholar    : "https://scholar.google.com/citations?user=HcX1ldgAAAAJ&hl=ko&oi=ao"
+  email            : "sanghoonjun@email.arizona.edu"
+  researchgate     : "https://www.researchgate.net/profile/Sanghoon-Jun"
+  publons          : 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "steelpl"
+  github           : "SanghoonJunWater"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "seokhyeon-kim-58aa3182"
-  orcid            : "https://orcid.org/0000-0002-1819-8022"
+  linkedin         : "sanghoon-jun-99b8b0207"
+  orcid            : "https://orcid.org/0000-0002-5971-8282"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
