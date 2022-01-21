@@ -11,7 +11,8 @@ redirect_from:
 
 
 ## A short introduction
-I am a Ph.D. Candidate in the University of Arizona. 
+I am a Ph.D. Candidate in the University of Arizona.
+
 I am currently working as a research assistant in the Department of Civil and Architectural Engineering and Mechnanics  <a href="https://caem.engineering.arizona.edu//" target="_blank" rel="noopener noreferrer">UofA_CAEM</a>.
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
