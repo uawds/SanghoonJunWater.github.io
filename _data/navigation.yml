@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /files/CV_sanghoonjun.pdf
     
-  - title: "Gallery"
-    url: /posts/
+  #- title: "Gallery"
+  #  url: /posts/
     
   #- title: "Software"
   #  url: /software/
