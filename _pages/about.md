@@ -13,7 +13,7 @@ redirect_from:
 ## A short introduction
 I am a Ph.D. Candidate in the University of Arizona.
 
-I am currently working as a research assistant in the Department of Civil and Architectural Engineering and Mechnanics  <a href="https://caem.engineering.arizona.edu//" target="_blank" rel="noopener noreferrer">UofA_CAEM</a>.
+I am currently working as a research assistant in the Department of Civil and Architectural Engineering and Mechnanics,  <a href="https://caem.engineering.arizona.edu//" target="_blank" rel="noopener noreferrer">The University of Arizona</a>.
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Burst Detection and Localization in Water Distribution System (WDS)
@@ -22,8 +22,8 @@ I am currently working as a research assistant in the Department of Civil and Ar
 * Uncertainty Analysis and Calibration of WDS Hydraulic Model 
 
 <b>EDUCATION:</b>
-* Ph.D. Candidate in Civil and Architectural Engineering and Mechanics (Supervisor: <a href="https://caem.engineering.arizona.edu/faculty-staff/faculty/kevin-e-lansey" target="_blank" rel="noopener noreferrer">Kevin E. Lansey</a>, The University of Arizona, Tucson, AZ, 2019.01-present
-* M.E. in Civil, Environmental, and Architectural Engineering (Supervisor: <a href="http://opti.korea.ac.kr/" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>, Korea University, Seoul, Republic of Korea, 2017.03-2019.02
+* Ph.D. Candidate in Civil and Architectural Engineering and Mechanics (Advisor: <a href="https://caem.engineering.arizona.edu/faculty-staff/faculty/kevin-e-lansey" target="_blank" rel="noopener noreferrer">Kevin E. Lansey</a>, The University of Arizona, Tucson, AZ, 2019.01-present
+* M.E. in Civil, Environmental, and Architectural Engineering (Advisor: <a href="http://opti.korea.ac.kr/" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>, Korea University, Seoul, Republic of Korea, 2017.03-2019.02
 * B.S. in Civil and Architectural Engineering, Korea University, Seoul, Republic of Korea, 2011.03-2017.02
 
 
