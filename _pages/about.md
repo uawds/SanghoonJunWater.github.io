@@ -13,7 +13,6 @@ redirect_from:
 ## A short introduction
 I am a Ph.D. Candidate in the University of Arizona. 
 I am currently working as a research assistant in the Department of Civil and Architectural Engineering and Mechnanics  <a href="https://caem.engineering.arizona.edu//" target="_blank" rel="noopener noreferrer">UofA_CAEM</a>.
-<br/><img src='/images/WRC_20211217.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Burst Detection and Localization in Water Distribution System (WDS)
