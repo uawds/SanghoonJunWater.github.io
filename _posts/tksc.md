@@ -1,5 +1,5 @@
 ---
 title: "Tucson Korean Soccer Team (TKSC)"
-excerpt: "This photo is taken at D.C at March, 2021, during the cherry blossom. <br/><img src='/images/tksc.jpg'>"
+excerpt: "Photo taken at Dec 11th, 2021. <br/><img src='/images/tksc.jpg'>"
 collection: gallery
 ---
